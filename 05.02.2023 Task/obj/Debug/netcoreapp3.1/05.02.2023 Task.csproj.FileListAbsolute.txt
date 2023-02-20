@@ -1,0 +1,28 @@
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.exe
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.deps.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.runtimeconfig.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.runtimeconfig.dev.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.csproj.AssemblyReference.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.AssemblyInfoInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.AssemblyInfo.cs
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.csproj.CoreCompileInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.genruntimeconfig.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.exe
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.deps.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.runtimeconfig.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.runtimeconfig.dev.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.csproj.AssemblyReference.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.AssemblyInfoInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.AssemblyInfo.cs
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.csproj.CoreCompileInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\05.02.2023\05.02.2023 Task\obj\Debug\netcoreapp3.1\05.02.2023 Task.genruntimeconfig.cache
